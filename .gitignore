@@ -2,3 +2,6 @@
 model_data/README.md
 *.pth
 VOCdevkit/LabPics/ImageSets/Segmentation/test.txt
+VOCdevkit/VOC2012/SegmentationObject/2011_003246.png
+VOCdevkit/
+model_data/
