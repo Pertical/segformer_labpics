@@ -1,0 +1,4 @@
+
+model_data/README.md
+*.pth
+VOCdevkit/LabPics/ImageSets/Segmentation/test.txt
